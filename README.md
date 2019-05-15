@@ -2,9 +2,9 @@
 
 [![Bootstrap Freebies](/readme-images/github-bootstrap-freebies.png)](https://github.com/topics/bootstrap-freebies/) 
 
-**Testimonials snippet** made with Bootstrap 4. It has a clean, flat style design that looks great on all device sizes. This snippet can be used as a quick solution for adding testimonials, product reviews, or other user feedback sections to your website. Consists of a Bootstrap grid and a tiny bit of CSS. [See a live demo here &raquo;](https://epicbootstrap.com/snippets/testimonials)
+**Testimonials snippet** made with Bootstrap 4. It has a clean, flat style design that looks great on all device sizes. This snippet can be used as a quick solution for adding testimonials, product reviews, or other user feedback sections to your website. Consists of a Bootstrap grid and a tiny bit of CSS. [Get it in Bootstrap Studio &raquo;](https://bootstrapstudio.io)
 
-[![Testimonials](/readme-images/screenshot.png)](https://epicbootstrap.com/snippets/testimonials) 
+[![Testimonials](/readme-images/screenshot.png)](https://bootstrapstudio.io) 
 
 ## Features
 
